@@ -5,9 +5,9 @@ import (
 	"testing"
 
 	"github.com/mitchellh/mapstructure"
-	"github.com/nautilus/graphql"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	"github.com/zhangtbj/graphql"
 )
 
 func schemaTestLoadQuery(query string, target interface{}, variables map[string]interface{}) error {

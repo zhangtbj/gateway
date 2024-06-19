@@ -8,8 +8,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/nautilus/graphql"
 	"github.com/vektah/gqlparser/v2/ast"
+	"github.com/zhangtbj/graphql"
 )
 
 // Common type names for manipulating schemas

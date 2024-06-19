@@ -1,8 +1,8 @@
 package gateway
 
 import (
-	"github.com/nautilus/graphql"
 	"github.com/sirupsen/logrus"
+	"github.com/zhangtbj/graphql"
 )
 
 // Logger logs messages

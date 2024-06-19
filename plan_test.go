@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/nautilus/graphql"
 	"github.com/stretchr/testify/assert"
 	"github.com/vektah/gqlparser/v2/ast"
+	"github.com/zhangtbj/graphql"
 )
 
 func TestPlanQuery_singleRootField(t *testing.T) {

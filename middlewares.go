@@ -4,7 +4,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/nautilus/graphql"
+	"github.com/zhangtbj/graphql"
 )
 
 // Middleware are things that can modify a gateway normal execution

@@ -9,7 +9,7 @@ import (
 	"github.com/vektah/gqlparser/v2/ast"
 	"github.com/vektah/gqlparser/v2/gqlerror"
 
-	"github.com/nautilus/graphql"
+	"github.com/zhangtbj/graphql"
 )
 
 // internalSchemaLocation is the location that functions should take to identify a remote schema

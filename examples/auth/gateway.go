@@ -6,8 +6,8 @@ import (
 	"net/http"
 
 	"github.com/nautilus/gateway"
-	"github.com/nautilus/graphql"
 	"github.com/vektah/gqlparser/v2/ast"
+	"github.com/zhangtbj/graphql"
 )
 
 // the first thing we need to define is a middleware for our handler

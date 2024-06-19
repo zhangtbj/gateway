@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/nautilus/gateway"
-	"github.com/nautilus/graphql"
+	"github.com/zhangtbj/graphql"
 )
 
 func ListenAndServe(services []string) {

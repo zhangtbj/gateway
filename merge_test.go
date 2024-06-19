@@ -5,11 +5,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/nautilus/graphql"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/vektah/gqlparser/v2/ast"
 	"github.com/vektah/gqlparser/v2/formatter"
+	"github.com/zhangtbj/graphql"
 )
 
 func TestMergeSchema_assignQueryType(t *testing.T) {

@@ -8,7 +8,7 @@ import (
 	"github.com/vektah/gqlparser/v2"
 	"github.com/vektah/gqlparser/v2/ast"
 
-	"github.com/nautilus/graphql"
+	"github.com/zhangtbj/graphql"
 )
 
 // QueryPlanStep represents a step in the plan required to fulfill a query.

@@ -9,11 +9,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/nautilus/graphql"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/vektah/gqlparser/v2"
 	"github.com/vektah/gqlparser/v2/ast"
+	"github.com/zhangtbj/graphql"
 )
 
 type schemaTableRow struct {

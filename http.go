@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/nautilus/graphql"
+	"github.com/zhangtbj/graphql"
 )
 
 type PersistedQuerySpecification struct {

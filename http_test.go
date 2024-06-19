@@ -17,9 +17,9 @@ import (
 
 	"golang.org/x/net/html"
 
-	"github.com/nautilus/graphql"
 	"github.com/stretchr/testify/assert"
 	"github.com/vektah/gqlparser/v2/ast"
+	"github.com/zhangtbj/graphql"
 )
 
 type resultWithErrors struct {

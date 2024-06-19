@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nautilus/graphql"
 	"github.com/stretchr/testify/assert"
+	"github.com/zhangtbj/graphql"
 )
 
 // MockPlanner always returns the provided list of plans. Useful in testing.

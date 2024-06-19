@@ -11,9 +11,9 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/nautilus/graphql"
 	"github.com/stretchr/testify/assert"
 	"github.com/vektah/gqlparser/v2/ast"
+	"github.com/zhangtbj/graphql"
 )
 
 type roundTripFunc func(req *http.Request) *http.Response

@@ -9,7 +9,7 @@ import (
 
 	"github.com/vektah/gqlparser/v2/ast"
 
-	"github.com/nautilus/graphql"
+	"github.com/zhangtbj/graphql"
 )
 
 // Gateway is the top level entry for interacting with a gateway. It is responsible for merging a list of
